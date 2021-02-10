@@ -1,0 +1,3 @@
+Resenje je realizovano u programskom jeziku javascript.
+Za pokretanje potrebno je u visual studio code-u instalirati live server, a zatim ga pokrenuti u donjem desnom uglu na GoLive.
+Nakon toga otvara se stranica na kojoj uradimo desni klik pa Inspect i u Console vidimo rezultat algoritma.
